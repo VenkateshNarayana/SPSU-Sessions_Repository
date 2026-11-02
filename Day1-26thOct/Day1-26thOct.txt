@@ -1,0 +1,15 @@
+Session 1 Programming Fundamentals(26th Oct)
+•	Introduction to C ++
+•	Variables, data types, operators, conditions, loops
+•	Conditions Constructs 
+o	If-else
+o	If-else if-else(laddering)
+o	Nested if
+o	Switch case
+o	Ternary operator 
+•	Problems – Finding largest of 2(if-else), largest of 3(using nesting and laddering. Using ternary as an alternative for shorthand if-else). Nesting of ternary operator. Determing grades using switch case.
+•	Loops Constructs
+o	For loops(initialising block, termination block, incremental block)
+o	While(conditional exit)
+o	Do..while(execution of statement block atleast once)
+•	Problems – Finding Sum or n numbers(for loop), Extracting digits(while loop), Showing a Menu option (Kiosk) – (do while loop) 
