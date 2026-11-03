@@ -1,0 +1,28 @@
+Session 5 Introduction to Data Structure and Algorithms (30th Oct)
+•	Using List and perform basic operations(insert, delete, traverse, search)
+	o	Insert an element at the beginning (using push_front() method)
+	o	Insert an element at the end (using push_back() method)
+	o	Delete first and last elements (using pop_front(), pop_back() method)
+	o	Delete a particular value(using remove() & erase(it), clear() method)
+	o	Search for an element(traverse using iterator begin(),end() and iterator++ to move to next element)
+	o	Count occurrences of an element (using count() method)
+	o	Reverse a list (using reverse() method)
+	o	Sort a list (using sort() method, ascending vs descending(sort(greater<int>()))
+	o	Remove consecutive duplicates (using unique() method)
+	o	Merge two sorted lists (using merge() method)
+•	Using List to solve problems
+	o	Find the middle element      (using iterator)
+	o	Remove all even numbers   (using remove_if() and lambda function)
+	o	Remove duplicate elements (using iterator)
+	o	Split a list into two halves     (using iterator and advance function)
+	o	Merge two sorted lists          (using merge method)
+	o	Check whether a list is palindrome (using iterator)
+	o	Rotate a list by K positions
+•	Using Stack to solve problems
+	o	Infix to Postfix expression
+	o	Postfix evaluation 
+	o	Next greater element (monotonic stack)
+	o	Daily temperatures    (monotonic stack)
+•	Solving Company Targeted Problem(Daily Problem)
+	o	Bridge construction using strong points of  2 roads (finding the median on the sorted distances)
+	o	Calculating the merit list by excluding students who have cheated(remove duplicates and count)
