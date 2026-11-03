@@ -1,0 +1,26 @@
+Session 8 Introduction to Data Structure and Algorithms (3rd Nov)
+•	Using Deque to solve Problems
+	o	Sliding window maximum
+•	PriorityQueue (key operations and corresponding methods)
+	o	Maximum Product After K Increments
+	o	Kth Largest Element in an Array
+•	Set (key operations and corresponding methods)
+		Unordered Set
+•	Map (key operations and corresponding methods)
+	o	Insert/update		mp[key] = value	,O(log n)
+	o	Access			mp[key]	,             O(log n)
+	o	Search			mp.find(key) ,     O(log n)
+	o	Check existence	mp.count(key),   O(log n)
+	o	Delete by key		mp.erase(key),	 O(log n)
+	o	Get size		mp.size(),           O(1)
+•	Problem solving using Map
+	o	Count frequency of elements
+	o	Count occurrences of a character in a string
+	o	Find the first repeating element
+•	Problem solving using Set
+	o	Find the Missing Numbers in a Range
+	o	Find the Longest Consecutive Sequence
+	o	Find the Pair with a Given Sum
+	o	Find Elements Present in First Array but Not in Second(Set Difference)
+	o	Find the Union of Two Arrays
+	o	Find the Number of Distinct Elements
