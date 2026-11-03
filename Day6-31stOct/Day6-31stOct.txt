@@ -1,0 +1,16 @@
+Session 6 Introduction to Data Structure and Algorithms (31st Oct)
+•	Using List to solve problem
+	o	Find the middle element     (using iterator and size)
+	o	Split a list into two halves   (using iterator and advance)
+	o	Rotate a list by K positions (using splice)
+•	Using Stack to solve problems
+	o	Daily temperatures    (monotonic stack)
+	o	Minstack to find minimum for each element. (2 stack vs single stack)
+•	Question 3: Calculating the merit list by excluding students who have cheated(remove duplicates and count)
+	o	Solving using Array or Vectors
+	o	Solving using stack?
+	o	Solving using linked list
+•	Using Pair to solve simple problems 
+	o	Activity Selection
+	o	Compute distance given coordinates of 2 points
+
