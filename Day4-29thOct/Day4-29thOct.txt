@@ -1,0 +1,25 @@
+Session 4 Programming Fundamentals & Introduction to Data Structure and Algorithms (29th Oct)
+•	Problem Solving Using Hashing 
+	o	Counting the frequency of each number or character.
+	o	Finding duplicate elements.
+	o	Finding the first non-repeating character.
+	o	Solving Two Sum in an unsorted array.
+	o	Finding the majority element.
+	o	Counting subarrays with a given sum.
+	o	Checking whether two strings are anagrams.
+•	Solving Company Targeted Problem(Daily Problem)
+	o	Using 2Pointer(same direction)
+	o	Using Sliding window + 2Pointer(Optimising the calculation of sum of gold coins)
+•	Finding Majority using Bayer’s Moore algorithm Vs Hashing technique
+•	Introduction to Data Structure 
+	o	Types of Data Structure 
+•	Introduction to STL(Linear Data Structure)
+	o	Vectors
+•	Problem Solving using Vectors
+	o	Reverse the Order of Words
+•	Using Vector as a Stack and solve problems 
+	o	Reverse a string		"hello" → "olleh"
+	o	Check balanced parentheses	"({[]})" → Balanced
+	o	Remove adjacent duplicates	"abbaca" → "ca"
+	o	Valid string after removing #	"ab#c" → "ac"
+	o	Decode an encoded string	"3[a2[c]]" → "accaccacc"
