@@ -1,0 +1,20 @@
+Session 3 Programming Fundamentals (28th Oct)
+•	Strings – Using Built-in functions
+	oCharacter count using hashing technique
+	oReversing a string using 2 pointer
+•	Arrays – 
+	o2Pointer - Opposite-direction pointers(Two Sum, reversing of array/String) 
+	oPerform rotation of arrays
+	o2Pointer - Same-direction pointers (Moving zeros, Remove Duplicates)
+	oFinding intersection of 2 arrays
+	oMerge 2 sorted arrays
+	oSliding Window (Finding max sum in a given sub array)
+•	Functions – Creating user defined functions
+	oComponents of a function
+	oTypes of functions 
+•	Functions – Recursion
+	oFactorial (loop vs recursion)
+	oReversing a string(in place vs displaying)
+	oCalculate the sum of digit
+	oCreate power function
+	oFinding max element of array 
