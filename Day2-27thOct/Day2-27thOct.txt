@@ -1,0 +1,17 @@
+Session 2 Programming Fundamentals(27th Oct)
+•	Introduction to Non Primitive Data Types – Using arrays, Strings
+•	Arrays 
+	oLargest and Second Largest (Distinct Elements) - Example: 10 5 20 20 8 → Output: 10
+	oMaximum consecutive occurrences of same element - Example: 2 2 5 5 5 1 5 5 → Output: 3
+	oFrequency count of digits - hashing,
+•	Arrays – Two pointer
+	oTwo Sum in a sorted array
+	oPair with a given sum
+	oMove all zeros to the end
+	oRemove duplicates in-place
+	oReverse an array in-place
+•	functions, arrays, strings, recursion
+	oCreating functions
+	oComponents of functions - Declaration, Definition, function call
+	oFunction Types
+	oRecursion Functions
