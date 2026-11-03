@@ -1,0 +1,15 @@
+Session 7 Introduction to Data Structure and Algorithms (2nd Nov)
+•	Using Queue to solve simple Problems
+	o	Generate Binary Numbers
+	o	First non-repeating character in a stream
+•	Using pair to solve simple problems 
+	o	Activity Selection
+	o	Compute distance given coordinates of 2 points
+•	Using Deque to solve Problems
+	o	Basic operations of double ended queue
+	o	Palindrome
+	o	Rotate elements
+	o	Stack implementation
+	o	Queue implementation
+	o	Sliding window maximum
+	o	Sliding window maximum
