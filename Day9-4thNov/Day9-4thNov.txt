@@ -1,0 +1,31 @@
+•	Introduction to algorithms & Problem solving 
+	o	sort()		Sort elements	O(n log n)
+	o	reverse()	Reverse elements	O(n)
+	o	min_element()	Find minimum element	O(n)
+	o	max_element()	Find maximum element	O(n)
+	o	count()		Count occurrences	O(n)
+	o	find()		Search an element	O(n)
+	o	binary_search()	Search in sorted range	O(log n)
+	o	lower_bound()	First element ≥ target	O(log n)
+	o	upper_bound()	First element > target	O(log n)
+	o	unique()	Remove consecutive duplicates	O(n)
+	o	accumulate()	Calculate sum	O(n)
+	o	partial_sum()	Calculate prefix sums	O(n)
+	o	rotate()		Rotate elements	O(n)
+	o	next_permutation()	Generate next permutation	O(n)
+	o	swap()		Exchange two elements	O(1)
+•	Problem solving using Map
+	o	Count frequency of elements
+	o	Find the Top k frequent elements using vector and pair and custom sorting using comparator
+•	Problem solving using Set
+	o	Find the Missing Numbers in a Range
+	o	Find Elements Present in First Array but Not in Second(Set Difference)
+	o	Find the Smallest Element Greater Than K
+•	Problem solving – Competitive coding
+	o	A chocolate factory is packing chocolates into the packets. 
+	o	Airport security officials have confiscated several item of the passengers at the security check point.
+	o	Given an integer array Arr of size N the task is to find the count of elements whose value is greater than all of its prior elements.
+	o	Stock Buy and Sell - Max one Transaction Allowed
+	o	An automobile company manufactures both a two wheeler (TW) and a four wheeler (FW). 
+	o	A supermarket maintains a pricing format for all its products. A value N is printed on each product. 
+	o	A furnishing company is manufacturing a new collection of curtains. The curtains are of two colors aqua(a) and black (b). 
