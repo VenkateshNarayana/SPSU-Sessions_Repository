@@ -1,0 +1,15 @@
+Session 13 OOPS (18th Nov)
+•	OOPS 
+	oCreating Objects in C++( 2 approaches)
+		Difference between standard syntax vs new keyword
+		Using Constructor and Destructor to manage the dynamically allocated memory(heap)
+	oUse of static keyword (as class variable)
+		Difference between local(Stack (automatic storage)) and static variable (Static storage area)
+		Shared variable for objects
+	oLinked List  – Using node
+		Single Linked List 
+		  •Perform Basic operations
+		  •Reverse
+		  •Rotate using Circular Linked List
+		Stack ADT
+		Queue ADT
