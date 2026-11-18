@@ -1,0 +1,15 @@
+Session 12 OOPS (17th Nov)
+•	OOPS 
+	oCopy Constructor
+	oPolymorphism – Overloading Vs Overriding(use of virtual keyword to achieve runtime polymorphism)
+	oInheritance & its Types 
+			Simple/single
+			Multi-level
+			Multiple
+			Hierarchical
+			Hybrid
+	oAbstract classes – Using virtual functions for creating abstract classes
+			Stack ADT
+			Queue ADT
+	oExceptions(try catch throw)
+	oUse of static keyword (as class variable)
