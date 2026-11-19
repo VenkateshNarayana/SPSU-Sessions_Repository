@@ -1,0 +1,22 @@
+Session 14 OOPS-Non Linear Data Structure (19th Nov)
+•	OOPS 
+	o	Linked List  – Using node
+		Single Linked List 
+			•Rotate using Circular Linked List
+		Stack ADT - Using Linked List
+		Queue ADT - Using Linked List
+	o	Non Linear Data Structure( Trees & Graphs )
+		Tree Terminologies
+		Binary Tree & Types of Binary Trees
+		BST
+		BST – Traversals(Inorder, PreOrder,PostOrder)
+		Creation of BST using TreeNode object & Performing Basic Operations
+			•Insertion
+			•Deletion 
+			•Searching
+			•Traversals including level-order
+•	SQL & Database Systems
+	oSELECT, Filtering, Sorting, Aggregation, GROUP BY/HAVING
+	oJoins, Subqueries, CASE
+	oConstraints, Views, Indexes, query optimisation, keys, 
+	oNormalisation, Transactions, ACID and Concurrency.
