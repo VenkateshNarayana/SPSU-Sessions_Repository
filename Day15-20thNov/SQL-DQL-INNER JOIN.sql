@@ -1,3 +1,4 @@
+
 -- A. INNER JOIN
 -- Returns only matching records from both tables.
 SELECT s.student_id, s.name, d.dept_name
@@ -18,3 +19,9 @@ SELECT s.name, d.dept_name
 FROM students s
 RIGHT JOIN departments d
 ON s.dept_id = d.dept_id;
+
+-- D. CROSS JOIN
+-- Returns all possible combinations of rows from two tables.
+SELECT s.name, d.dept_name
+FROM students s
+CROSS JOIN departments d;
