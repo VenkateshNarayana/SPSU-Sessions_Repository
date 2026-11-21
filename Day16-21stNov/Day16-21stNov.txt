@@ -1,0 +1,13 @@
+Session 16 SQL & Database Systems (21st Nov)
+•SQL & Database Systems
+	oSELECT, Filtering, Sorting, Aggregation, GROUP BY/HAVING
+	oJoins, Subqueries, CASE
+	oConstraints, Views, Indexes, query optimisation, keys, 
+	oNormalisation, Transactions, ACID and Concurrency.
+•Operating Systems 
+	oProcesses/threads 
+	oCPU scheduling 
+	osynchronisation
+	odeadlocks
+	omemory management
+	opaging, virtual memory, file systems.
